@@ -1,1 +1,3 @@
-# KinpatsuCodeMono-Regular
+#KinpatsuCodeMonono-常规
+随便做的字体...
+遵循Sil开放式字体许可证1.1
